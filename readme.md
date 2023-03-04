@@ -1,0 +1,2 @@
+# Bilgisayar Dukkanim
+###	Bu site [Kodluyoruz](https://www.kodluyoruz.org/)  Front-End Eğitiminde oluşturduğumuz bir site. İçerisinde images klasoru, readme dosyası ve 3 adet html dosyası barındırıyor.
